@@ -34,10 +34,10 @@ Begin your journey into web development.
 8. **Create a pull request to this repository using the following format:**
 
 ```
-## Title
+**Title**
 This PR is the solution to the 'js basics'  #<issue number>
 
-## Description
+**Description**
 - What all did you learn?
 - Any difficulties that you faced, and how you solved it?
 - Did you have to learn anything new to do the assignments?
