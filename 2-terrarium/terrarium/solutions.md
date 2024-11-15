@@ -91,9 +91,6 @@ To build the terrarium, the CSS part was already given. In order to try CSS myse
     margin: auto;
 }
 
-#Basic-info{
-}
-
 h1{
     padding-left: 5%;
     margin-bottom: 40px;
