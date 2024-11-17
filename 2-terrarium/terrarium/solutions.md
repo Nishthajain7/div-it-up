@@ -1,4 +1,14 @@
 # 1. Introduction to HTML
+
+### Challange
+Replacing `<h1>My Terrarium</h1>` with 
+```
+<marquee direction="left" loop="">
+    <h1>My Terrarium</h1>
+</marquee>
+```
+will make the web page title scroll horizontaly.
+
 ### Assignment
 
 HTML markup of the website
@@ -67,7 +77,6 @@ HTML markup of the website
                 <p class="value">2024-2028</p>
             </div>
         </div>
-
     </div>
 </body>
 </html>
@@ -81,9 +90,6 @@ To build the terrarium, the CSS part was already given. In order to try CSS myse
     position: relative;
     width:90%;
     margin: auto;
-}
-
-#Basic-info{
 }
 
 h1{
