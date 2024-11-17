@@ -43,13 +43,33 @@ h1{
     height: 75%;
     width: 60%;
     background: #d1e1df;
-	border-radius: 5rem 5rem 3rem 3rem;
-	position: absolute;
+	  border-radius: 5rem 5rem 3rem 3rem;
+	  position: absolute;
     bottom: 5%;
     z-index: 1;
     text-align: center;
     left: 20%;
-    opacity: 0.3;
+    opacity: 0.5;
+}
+
+.jar-glossy-long{
+    left:5%;
+    top: 70%;
+    background-color: #e6f8f5;
+    position: relative;
+    width:3%;
+    height:15%;
+    border-radius: 10px;
+}
+
+.jar-glossy-short{
+    left:5%;
+    top: 47%;
+    background-color: #e6f8f5;
+    position: relative;
+    width:3%;
+    height:5%;
+    border-radius: 10px;
 }
 
 .jar-top{
